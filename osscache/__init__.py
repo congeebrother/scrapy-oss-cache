@@ -1,10 +1,2 @@
-#!/usr/bin/env python
-# -*- coding: utf-8 -*-
-#__author__ = 'daniel'
-#__date__=
-
-
-
-
-if __name__ == '__main__':
-    pass
+__title__ = 'osscache'
+__version__ = '0.0.1'
